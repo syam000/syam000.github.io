@@ -9,7 +9,8 @@ While I was working on a way finding solution, I had to search for a graph datab
 
 * [Neo4J](https://neo4j.com/)
 * [Amazon Neptune](https://aws.amazon.com/blogs/aws/amazon-neptune-a-fully-managed-graph-database-service/)
-* [https://orientdb.com/](https://orientdb.com/)
+* [OrientDB](https://orientdb.com/)
+
 And the list goes on
 
 As one of the best in the market, I have started with neo-4j and then I realised that if I wanna use it in a commercial project, I have to pay a huge license fee 😑. In my opinion neo-4j is one of the best graph database with developer friendly tools and documentation. But the price was not something I could afford. Thus I continued my search and found [ArangoDB](https://www.arangodb.com/) 😄🕺.

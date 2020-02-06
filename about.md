@@ -6,14 +6,14 @@ permalink: /about/
 
 Here is the simple definition of me
 
- **A loving husband**
+* **A loving husband**
  
- **A caring son**
+* **A caring son**
   
- **A seasoned geeky engineer**
+* **A seasoned geeky engineer**
 
- **A social animal**
+* **A social animal**
 
- **An audiophile**
+* **An audiophile**
 
 Wanna have a chat? drop a mail: [syam@hey-geek.online](mailto:syam@hey-geek.online)
