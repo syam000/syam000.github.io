@@ -22,15 +22,19 @@ I have learned a lot while working with ArangoDB, so I thought write a simple bl
 Lets jump in…
 
 **What is ArangoDB?**
+
 Its an open source multi-model database for graph , document , key-value and search needs. In other words it has the features of Neo4J / Couch DB and Cassandra DB. Thats sounds something interesting, isn’t it.
 
 **Which are the operating systems it supports?**
+
 Basically every where - Windows / Mac / Linux / Kubernetes & Docker. 😎
 
-**How about drivers for programming languages ?****
+**How about drivers for programming languages ?**
+
 Almost all the modern main stream languages - Java, JS, Go, Python, R , Rust & Elixir 🤠
 
 **How to install?**
+
 I am using Mac, so I decided to install via [Homebrew ❤️](https://brew.sh/) and also installed the cli tools.
 
 {% highlight zsh %}
