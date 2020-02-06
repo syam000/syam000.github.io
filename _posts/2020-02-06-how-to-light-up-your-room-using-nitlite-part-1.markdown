@@ -29,7 +29,8 @@ So here what I built.
 * Client Apps (iOS/Android) — Client
 * A Light control unit using nodemcu — LCU
 
-The server serves the clients – mobile app and the edge devices – light control unit. The server exposes interfaces via REST and MQTT. Clients can communicate to the server either via REST. The server is the central unit of communication between the clients. The iOS/android clients act as the front-end of the whole system. The users will be able to control the light using these apps. Next is the light control unit (LCU), is the hardware component directly connected to the light. The communication between the mobile app and server is via REST. In the case of server to LCU communication, MQTT protocol is being used.
+The server serves the clients – mobile app and the edge devices – light control unit. The server exposes interfaces via [REST](https://www.restapitutorial.com/lessons/whatisrest.html) and [MQTT](http://mqtt.org/). Clients can communicate to the server either via REST. The server is the central unit of communication between the clients. The iOS/android clients act as the front-end of the whole system. The users will be able to control the light using these apps. Next is the light control unit (LCU), is the hardware component directly connected to the light. The communication between the mobile app and server is via REST. In the case of server to LCU communication, MQTT protocol is being used.
+
 
 **Next steps**
 
