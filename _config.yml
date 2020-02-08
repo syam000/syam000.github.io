@@ -24,7 +24,7 @@ github_username:  syam00
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
