@@ -3,6 +3,7 @@ layout: post
 title:  "An introduction to ArangoDB"
 date:   2020-02-06 12:43:16 +0800
 categories: graph database
+comments: true
 ---
 
 While I was working on a way finding solution, I had to search for a graph database. After some research I have found out few as below:
@@ -94,4 +95,27 @@ I will write another tutorial on some practical exercises using arangodb and sho
 Till then see ya! 🤘
 
 
+{% if page.comments %}
 
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = 'https://syam00.github.io/graph/database/2020/02/06/introduction-to-arangodb.html';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = '2020/02/06/introduction-to-arangodb'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-syam00-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+{% endif %}
