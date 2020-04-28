@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to bit"
 date:   2020-04-28 12:43:16 +0800
 categories: react bit
+comments: true
 ---
 
 I have been looking into various ways to add components to my new react application. Then I found this new way to manage components called - [bit](https://bit.dev/). May not be new for some of you though. But as you all know, I am still a newbie 😅
