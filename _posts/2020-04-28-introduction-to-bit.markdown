@@ -14,7 +14,7 @@ It looks interesting to me thus wants to write a short post on it. Even though i
 
 **What is bit?**
 
- If you are JS dev you are familiar with npm and if you are Java dev you must be familiar with maven and gradle. So can you imagine a world with these component libraries? ????  😱😱😱
+ If you are JS dev you are familiar with npm and if you are Java dev you must be familiar with maven and gradle. So can you imagine a world without these component libraries? ????  😱😱😱
 
 My answer is a definite NOOOOOOO 😂 and I know most of you will agree with me on this too 😅
 
