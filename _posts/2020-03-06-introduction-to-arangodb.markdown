@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An introduction to ArangoDB"
-date:   2020-02-06 12:43:16 +0800
+date:   2020-03-06 12:43:16 +0800
 categories: graph database
 comments: true
 ---
@@ -105,8 +105,8 @@ Till then see ya! 🤘
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = 'https://syam00.github.io/graph/database/2020/02/06/introduction-to-arangodb.html';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = '2020/02/06/introduction-to-arangodb'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = 'https://syam00.github.io/graph/database/2020/03/06/introduction-to-arangodb.html';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = '2020/03/06/introduction-to-arangodb'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
