@@ -36,7 +36,7 @@ If you want to share your component to the public as we always do through the tr
 
 [bit](https://bit.dev/) provides a very comprehensive documentation on how to get started, but if you ask me I will go the easiest way possible like below:
 
-Between I am on Mac, so I will be showing how to do this on Mac. Don't worry if you are on Winodws or Linux, [bit](https://bit.dev/) have all documented well for you too 😍
+By the way I am on Mac, so I will be showing how to do this on Mac. Don't worry if you are on Winodws or Linux, [bit](https://bit.dev/) have all documented well for you too 😍
 
 * Sign up/in to bit [bit](https://bit.dev/) using your credentials. If you don't have one create it 🤓
 
