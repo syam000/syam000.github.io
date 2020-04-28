@@ -5,9 +5,9 @@ date:   2020-04-28 12:43:16 +0800
 categories: react bit
 ---
 
-I have been looking into various ways to add components to my new react application. Then I found this new way to manage components called - [bit](https://bit.dev/). 
+I have been looking into various ways to add components to my new react application. Then I found this new way to manage components called - [bit](https://bit.dev/). May not be new for some of you though. But as you all know, I am still a newbie 😅
 
-It looks interesting to me thus wants to write a short post on it. Even though it's well documented, I am just giving a gist here ☺️
+It looks interesting to me thus wants to write a short post on it. Even though it's well documented, I am just giving a gist here 😎
 
 ![bit.dev](/assets/bit_post_1.png)
 
