@@ -31,6 +31,7 @@ Good news ppl 😃 I have become a talent at [Odazzit](https://odazzit.com/talen
 
 
 **What's next?**
+
 I will be organising some training sessions and based on the response will add more 😎
 
 Hope to see you all there 😇
