@@ -25,6 +25,7 @@ github_username:  syam00
 # Build settings
 markdown: kramdown
 theme: minima
+ skin: dark
 plugins:
   - jekyll-feed
 
