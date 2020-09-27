@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to secure your web application - Part I"
-date:   2020-09-20 12:43:16 +0800
+date:   2020-09-27 12:43:16 +0800
 categories: security
 comments: true
 ---
