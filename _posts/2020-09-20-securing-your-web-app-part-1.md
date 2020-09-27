@@ -7,6 +7,7 @@ comments: true
 ---
 
 ![](/assets/secure_web_app_1.jpg)
+Photo by [Luther Bottrill](https://unsplash.com/s/photos/hacker?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 It's is a dangerous world out there! 🤯 😱 🙀 Yes, it's true!
 
