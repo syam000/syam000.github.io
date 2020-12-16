@@ -24,8 +24,8 @@ github_username:  syam00
 
 # Build settings
 markdown: kramdown
-#theme: minima
-remote_theme: stackbithq/stackbit-theme-fjord
+theme: minima
+#remote_theme: stackbithq/stackbit-theme-fjord
 plugins:
   - jekyll-feed
 
